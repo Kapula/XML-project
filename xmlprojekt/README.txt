@@ -1,7 +1,4 @@
-Poštovani/a kolega/kolegice.
+My project from the XML programming course consists of Login and Sign up forms.
+I worked on it using these languages: PHP, XML, JavaScript, HTML, CSS.
 
-Moj projekt iz kolegija XML programiranje se sastoji od Login i Sing up forme.
-Radio sam pomoću ovih jezika: PHP, XML, JavaScript, HTML, CSS
-U .zip fileu imate kratki video kako i na koji način forma funkcionira.
-
-Hvala na pažnji.
+You have uploaded a short video of how and in what way the form works.
